@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " data-whatpersist="false" class="AI4Belgium script-disabled">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="http://bosa.belgium.be/fr/AI4Belgium" />
+<meta name="keywords" content="ai4belgium, ai, intelligence artificielle" />
+<meta property="og:site_name" content="BOSA" />
+<meta property="og:url" content="http://bosa.belgium.be/fr/AI4Belgium" />
+<meta property="og:title" content="AI4Belgium | BOSA" />
+<meta property="og:description" content="L’intelligence artificielle (IA) est au centre d’une transformation profonde de notre société et de la « quatrième révolution industrielle ».  La technologie en matière d’IA est en constante évolution et le SPF BOSA suit cela de près via AI4Belgium : une coalition qu’elle coordonne et qui rassemble les acteurs de l’IA issus des services publics, du secteur privé, du monde académique et de la société civile, experts et non-experts. L’AI Act définit un système d’IA comme : « Un système automatisé qui est conçu pour fonctionner à différents niveaux d&#039;autonomie et peut faire preuve d&#039;une capacité d&#039;adaptation après son déploiement, et qui, pour des objectifs explicites ou implicites, déduit, à partir des entrées qu&#039;il reçoit, la" />
+<meta property="og:image" content="https://bosa.belgium.be/sites/default/files/images/logo%20BOSA%20-%20color.png" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="msapplication-TileColor" content="#405b77" />
+<meta name="msapplication-TileImage" content="/themes/custom/bosa/images/favicons/mstile-144x144.png" />
+<meta name="msapplication-config" content="/themes/custom/bosa/images/favicons/browserconfig.xml" />
+<meta name="theme-color" content="#405b77" />
+<meta name="outdatedbrowser-ieTarget" content="11" />
+<link rel="alternate" hreflang="nl" href="http://bosa.belgium.be/nl/AI4Belgium" />
+<link rel="alternate" hreflang="fr" href="http://bosa.belgium.be/fr/AI4Belgium" />
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/bosa/images/favicons/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/bosa/images/favicons/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/bosa/images/favicons/favicon-32x32.png" />
+<link rel="manifest" href="/themes/custom/bosa/images/favicons/site.webmanifest" />
+<link rel="mask-icon" href="/themes/custom/bosa/images/favicons/safari-pinned-tab.svg" color="#405b77" />
+
+    <title>AI4Belgium | BOSA</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_LYIu8aQilToEbg0j0hkG0s1rrmmF5s3utj9ROE86ELg.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6ejG4llH5QYsVYvw1zlESX0zRJrtmyJEWRGIWJAb2b8.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_FObmtwDfeVfC1tu42rCzSO6WDeQymccq_1ZU0wohiss.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_CfB4Vq8gefPwcXaqC4AYfCgd0x6_LgKSMtOAzBPDX5o.css" />
+
+    
+  </head>
+  <body class="no-sidebars not-logged-in page--node page--node-type-theme">
+        <a href="#main-content" class="visually-hidden focusable skip-link">Aller au contenu principal</a>
+    
+      <div class="page dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <header class="page__wrapper page__wrapper--header">
+              <div class="page__wrapper page__wrapper--tools">
+        <div class="page__section page__section--tools">
+            
+<nav class="language-switcher-language-url block block--language block--language--language-interface block--region-tools" id="block-languageswitcher-2" aria-label="Language switcher">
+  
+    
+
+        
+<ul class="links links--language-block"><li data-drupal-link-system-path="node/7176" class="is-active"><a href="/nl/AI4Belgium" class="language-link" lang="nl" aria-label="Dutch" hreflang="nl" data-drupal-link-system-path="node/7176"><abbr title="Dutch">NL</abbr></a></li><li data-drupal-link-system-path="node/7176" class="is-active"><a href="/fr/AI4Belgium" class="language-link is-active" lang="fr" aria-label="Français" hreflang="fr" data-drupal-link-system-path="node/7176"><abbr title="Français">FR</abbr></a></li><li><del class="language-link disabled" lang="de" aria-label="Deutsch (unavailable)">
+            <abbr title="Deutsch (unavailable)">DE</abbr>
+          </del></li><li><del class="language-link disabled" lang="en" aria-label="Engels (unavailable)">
+            <abbr title="Engels (unavailable)">EN</abbr>
+          </del></li></ul>
+  </nav>
+<div id="block-federalheader-2" class="block block--openfed-federalheader block--openfed-federalheader--federalheader-2 block--region-tools">
+  <div class="block__inner">
+    
+        
+
+          <div class="block__content">
+        <small class="block--openfed-federalheader__link">Autres informations et services officiels : <span><a href="https://www.belgium.be/fr">www.belgium.be</a></span></small><a href="https://www.belgium.be/fr" class="block--openfed-federalheader__logo" aria-hidden="true" tabindex="-1">
+    <img src="/profiles/contrib/openfed/modules/openfed_features/openfed_federalheader/assets/images/federalheader_logo.svg" alt="Logo des autorités fédérales belges" >
+  </a>
+      </div>
+      </div>
+</div>
+
+
+        </div>
+      </div>
+      
+        <div class="page__wrapper page__wrapper--navigation">
+      <div class="page__section page__section--navigation">
+          <div id="block-bosa-branding" class="block block--system-branding">
+    <div class="block__content">
+        <a href="/fr" data-pattern="tooltip" title="Back to BOSA home page" rel="home">
+            <img src="/themes/custom/bosa/images/logos/logo--fr.svg" width="205" height="74" alt="Back to BOSA home page" class="site--logo">
+          </a>
+          </div>
+  </div>
+
+
+                <button type="button" class="button button--toggler" aria-controls="headerCollapsible" aria-expanded="false">
+          <span class="label">Toggle menu</span>
+          <span class="icon"></span>
+        </button>
+
+          <div class="region region--header-collapsible" id="headerCollapsible">
+    
+<nav id="block-mainnavigationfr" aria-label="Main Navigation FR" class="block block--menu block--menu--main-navigation-fr block--region-header-collapsible">
+  
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item menu__item--expanded menu__item--active-trail dropdown-menu" >
+                                      <button aria-expanded="false" aria-controls="menu-main-navigation-fr-1" class="menu__button">Thèmes<span class="border"></span></button>
+  
+      <div id="menu-main-navigation-fr-1" class="dropdown">
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--expanded menu__item--with-icon menu__item--icon-color--soft-red" style="--icon: url(/sites/default/files/svg/Werken%20bij%20de%20overheid-icon-hr.svg);">
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique" title="Recrutement des collaborateurs, gestion du personnel, formations et développement, bien-être et informations sur le travail dans la fonction publique." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/2">Travailler dans la fonction publique</a>
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/recrutement-selection-et-certification" title="Découvrez nos offres d&#039;emploi, le processus de sélection, notre politique d&#039;inclusion et les trajets de certification de vos compétences.  " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/46">Recrutement, sélection et certification</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/carriere-et-statut" title="Consultez toutes les informations concernant le statut, le modèle de compétence, les possibilités de promotion, l&#039;évaluation, le règlement disciplinaire, ..." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/3">Carrière et statut</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/temps-de-travail-conges-et-absences" title="Consultez toutes les informations concernant les congés auxquels vous avez droit, le temps de travail et ce qu&#039;il faut faire en cas de maladie ou accident." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/47">Temps de travail, congés et absences</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/remuneration-et-avantages" title="Consultez toutes les informations concernant votre salaire, vos indemnités, vos primes et les avantages auxquels vous avez droit." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/40">Rémunération et avantages</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/administration-du-personnel-et-des-salaires" title="Pour les organisations de l&#039;administration fédérale dont l’administration du personnel et des salaires est déjà entièrement gérée par PersoPoint du SPF BOSA, le dossier personnel est conservé sous forme numérique." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/204">Administration du personnel et des salaires</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/formation-et-developpement" title="Plus de 300 formations, outils, trajets de coaching et d’accompagnements pour les fonctionnaires fédéraux et les organisations fédérales. Consultez notre offre et inscrivez-vous !" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/38">Formation et développement</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/bien-etre-et-prevention" title="Votre santé et votre bien-être sont importants ! C&#039;est pourquoi nous souhaitons vous informer de toutes les mesures que nous prenons pour vous soutenir dans votre santé et votre bien-être." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/48">Bien-être et prévention</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/propos-de-ladministration-federale" title="Consultez la liste des organisations qui composent l’administration fédérale. Découvrez la mission, la vision et les valeurs de l’administration fédérale." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/18">À propos de l’administration fédérale</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique/services-pour-professionnels-rh" title="Découvrez les différents services que nous offrons aux professionnels RH." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/50">Services pour professionnels RH</a>
+  
+        </li>
+          </ul>
+  
+  
+        </li>
+                                      <li class="menu__item menu__item--expanded menu__item--with-icon menu__item--icon-color--soft-green" style="--icon: url(/sites/default/files/svg/Overheidsopdrachten-icon-belgium.svg);">
+                          <a href="/fr/themes/marches-publics" title="Consultation et gestion des marchés publics, soumission et suivi des offres, soutien et contrats cadres." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/33">Marchés publics</a>
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/centre-de-connaissances-des-marches" title="Ce centre offre aux fonctionnaires fédéraux d&#039;informations, des fiches pratiques, des études et des références pour mener à bien les marchés publics." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/243">Centre de connaissances des marchés</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/quelques-notions-de-base" title="En savoir plus sur le comment et le pourquoi des marchés publics" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/55">Quelques notions de base</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/phases-dun-marche" title="Un marché public se compose de différentes phases. Vous trouverez ici de plus amples informations sur les différentes phases et sur les personnes qui interviennent à quel moment." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/56">Phases d&#039;un marché</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/formations" title="Consultez les différentes formations dans le domaine des marchés publics" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/244">Formations</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/types-de-procedures" title="Vous trouverez ici des informations sur les différents types de procédures et leurs caractéristiques" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/57">Types de procédures</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/marches-publics/comment-travailler-avec-la-facturation-electronique" title="Les entreprises envoient des factures électroniques, les adjudicateurs reçoivent des factures électroniques. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/6141">Comment travailler avec la facturation électronique ? </a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/politique-dachat-federale" title="La politique fédérale d’achats vise à réaliser un maximum d’achats fédéraux communs. Le modèle d&#039;achat élaboré à cette fin a pour but de stimuler la coopération entre les services publics fédéraux par le biais d&#039;un organe de concertation stratégique" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/90">Politique d&#039;achat fédérale</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/templates" title="Vous trouverez ici des templates des cahier des charges ou autres documents de différents types de procédures" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/242">Templates</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/marches-publics/commission-des-marches-publics" title="La Commission des marchés publics a été créée pour rendre des avis sur les avant-projets de loi ou d’arrêtés fixant les règles générales de passation et d’exécution des marchés publics." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/5469">Commission des marchés publics</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/marches-publics/avis-de-la-commission-des-marches-publics" title="Vous trouverez ici les avis de la Commission des marchés publics." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/5858">Avis de la Commission des marchés publics</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/marches-publics/recours" title="Pouvez-vous introduire un recours contre un marché public ? Vous l&#039;apprendrez ici." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/1541">Recours</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/reglementation" title="Les règles relatives aux marchés publics se trouvent dans plusieurs lois et arrêtés royaux, bien qu’elles soient à l’origine, pour une grande partie, issues de directives européennes. Vous trouverez ci-dessous les lois et arrêtés qui composent le cadre réglementaire actuel des marchés publics et contrats de concessions." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/5846">Réglementation</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/marches-publics/monitoring" title="La circulaire « P&amp;O/2012/e-Proc » du 30 novembre 2012 publiée au Moniteur belge du 7 décembre 2012 contient plusieurs mesures concernant l’utilisation des applications e-Procurement gérées par le SPF Stratégie et Appui." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/6033">Monitoring</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/marches-publics/e-procurement" title="La plateforme e-Procurement vous permet d&#039;accéder à un marché public ou de le soumettre par voie électronique." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/245">e-Procurement</a>
+  
+        </li>
+          </ul>
+  
+  
+        </li>
+                                      <li class="menu__item menu__item--expanded menu__item--active-trail menu__item--with-icon menu__item--icon-color--green" style="--icon: url(/sites/default/files/svg/Digitale%20overheid-icon-pointer.svg);">
+                          <a href="/fr/themes/administration-numerique" title="Numériser et simplifier les services aux citoyens et aux entreprises, soutenir le développement des nouveaux services numériques pour l&#039;administration et les entreprises." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/32">Administration numérique</a>
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/cooperation-et-partage-des-connaissances" title="Le lieu pour en savoir plus sur nos collaborations et partager des connaissances." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/96">Coopération et partage des connaissances</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/simplification-administrative" title="Simplifier les procédures, diminuer les charges administratives pour les citoyens, les entreprises et les associations." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/6562">Simplification administrative</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/strategie-et-politique-du-numerique" title="Le SPF BOSA vise une prestation de services numériques intégrale, axée sur les utilisateurs et fiable pour les clients d’une administration fédérale plus efficiente." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/91">Stratégie et politique du numérique</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/digital-dashboard" title="Consultez les statistiques sur l&#039;utilisation de nos services en ligne pour les citoyens, les entreprises et les administrations." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/6657">Digital Dashboard</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed menu__item--active-trail" >
+                          <a href="/fr/themes/administration-numerique/intelligence-artificielle-et-blockchain-et-nouvelles-technologies" title="Le SPF BOSA est un élément moteur de l’évolution et des réformes numériques du gouvernement fédéral. En matière d’innovation et de nouvelles technologies numériques, nous suivons en particulier les tendances et les opportunités offertes par les technologies d’intelligence artificielle et de la blockchain à travers un observatoire et un centre d’expertise." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/7195">Intelligence artificielle et nouvelles technologies</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/interoperabilite-et-integration" title="​​​​​​Le SPF BOSA fournit aux partenaires fédéraux l&#039;expertise, les services et le soutien nécessaires pour échanger des données de manière sécurisée et standardisée." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/94">Interopérabilité et intégration</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/inspiration-et-lignes-directrices" title="Pour tout savoir sur la conception inclusive, l&#039;accessibilité et le Single Digital Gateway." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/93">Inspiration et lignes directrices</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/administration-numerique/composants-et-plateformes-numeriques" title="Découvrez les composantes et les plateformes numériques pour les citoyens, les services publics et les entreprises" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/97">Composants et plateformes numériques</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/administration-numerique/soutien-numerique-sur-mesure" title="Le SPF BOSA soutient les autres services publics dans leurs projets numériques en mettant à disposition des accords-cadres, des conseils juridiques, etc." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/92">Soutien numérique sur mesure</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/administration-numerique/ameliorer-lexperience-des-utilisateurs" title="Vous souhaitez rendre vos services numériques plus conviviaux et inclusifs, mieux comprendre les besoins de vos utilisateurs ou simplement réfléchir à votre stratégie digitale mais vous ne savez pas par où commencer ? Notre équipe d’experts est là pour vous aider !" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/6803">Améliorer l’expérience des utilisateurs</a>
+  
+        </li>
+          </ul>
+  
+  
+        </li>
+                                      <li class="menu__item menu__item--expanded menu__item--with-icon menu__item--icon-color--dark-green" style="--icon: url(/sites/default/files/svg/Strategische%20ondersteuning-icon-strategy.svg);">
+                          <a href="/fr/themes/soutien-strategique" title="Conseils stratégiques et soutien en matière d&#039;élaboration de stratégies, de gestion organisationnelle, de politique RH, d&#039;innovation, de gestion du changement, de communication, d&#039;inclusion et de leadership." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/34">Soutien stratégique</a>
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/culture-de-lorganisation" title="La culture fédérale repose sur cinq valeurs communes. L&#039;intégrité est un autre aspect important. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/102">Culture de l&#039;organisation</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/inclusion" title="Comment faire pour que la diversité et l&#039;inclusion fonctionnent au sein de l’administration fédérale ? Découvrez-le ici. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/104">Inclusion</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/gestion-de-lorganisation" title="Découvrez comment le SPF BOSA soutient la gestion de l&#039;organisation au sein des services publics fédéraux. Nous sommes également un partenaire indispensable en matière d’accessibilité des données sur l’administration fédérale. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/101">Gestion de l&#039;organisation</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/communication" title="Le SPF BOSA attache de l&#039;importance à une communication fédérale reconnaissable, accessible, dynamique et professionnelle. C&#039;est pourquoi nous soutenons les communicateurs fédéraux à travers différents réseaux, une collection de guides pratiques et des contrats-cadres. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/108">Communication</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/politique-rh" title="Découvrez les moyens par lesquels le SPF BOSA contribue à façonner et à soutenir la politique fédérale en matière de RH. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/105">Politique RH</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/leadership" title="Découvrez la vision fédérale sur le leadership et comment le SPF BOSA peut vous aider à traduire cette vision dans votre organisation. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/107">Leadership</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/soutien-strategique/innovation" title="Nido, le laboratoire d&#039;innovation de l’administration fédérale, donne un coup de pouce à l&#039;innovation au sein de l’administration fédérale. En savoir plus sur leur offre. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/103">Innovation</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/soutien-strategique/gestion-du-changement" title="Lisez ici comment les processus de changement dans votre organisation peuvent être soutenus. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/106">Gestion du changement</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/themes/soutien-strategique/chiffres-de-la-fonction-publique-federale" title="Consultez quelques chiffres sur l&#039;évolution du personnel de la fonction publique fédérale de 2015 à 2024" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/7276">Chiffres de la fonction publique fédérale</a>
+  
+        </li>
+          </ul>
+  
+  
+        </li>
+                                      <li class="menu__item menu__item--expanded menu__item--with-icon menu__item--icon-color--yellow" style="--icon: url(/sites/default/files/svg/Begroting%20en%20boekhouding-icon-money.svg);">
+                          <a href="/fr/themes/budget-et-comptabilite" title="La préparation et l&#039;exécution du budget fédéral, le monitoring, le dépôt du budget et les outils de soutien et d&#039;information, y compris sur la politique macro-budgétaire." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/19">Budget et Comptabilité</a>
+                              <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/budget-et-comptabilite/budget-federal" title="En savoir plus sur le budget fédéral " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/63">Budget fédéral     </a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/budget-et-comptabilite/budget-comprehensible" title="Finances publiques : une plongée interactive. Laissez-vous guider par une infographie claire et dynamique et explorez les recettes et les dépenses de l&#039;État fédéral." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/132">Budget compréhensible</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/budget-et-comptabilite/budgets-en-belgique" title="En Belgique chaque niveau de pouvoir a son budget, comment coopèrent-ils ?" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/64">Budgets en Belgique</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/budget-et-comptabilite/cadre-budgetaire-europeen" title="En tant qu’État membre, la Belgique évolue dans un contexte européen en matière de politique budgétaire. " class="menu__link" hreflang="fr" data-drupal-link-system-path="node/65">Cadre budgétaire européen</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed" >
+                          <a href="/fr/themes/budget-et-comptabilite/comptabilite-publique" title="Découvrez ce qu&#039;est la comptabilité, la Commission de la comptabilité publique, FEDCOM et la facturation classique." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/66">Comptabilité publique</a>
+  
+        </li>
+          </ul>
+  
+  
+        </li>
+          </ul>
+  
+    </div>
+  
+        </li>
+                                      <li class="menu__item menu__item--expanded dropdown-menu" >
+                                      <button aria-expanded="false" aria-controls="menu-main-navigation-fr-2" class="menu__button">Offre<span class="border"></span></button>
+  
+      <div id="menu-main-navigation-fr-2" class="dropdown">
+                              <ul class="menu">
+                                          <li class="menu__item" >
+                          <a href="/fr/trainings" class="menu__link" data-drupal-link-system-path="trainings">Formations</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/regulations" class="menu__link" data-drupal-link-system-path="regulations">Réglementation</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/applications" class="menu__link" data-drupal-link-system-path="applications">Applications</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/services" class="menu__link" data-drupal-link-system-path="services">Services</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/networks" class="menu__link" data-drupal-link-system-path="networks">Réseaux</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/events" class="menu__link" data-drupal-link-system-path="events">Évènements</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/news" class="menu__link" data-drupal-link-system-path="news">Actualités</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/publications" class="menu__link" data-drupal-link-system-path="publications">Publications</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="https://bosa.belgium.be/fr/newsletters" class="menu__link">Newsletters</a>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="https://bosa.belgium.be/fr/sitemap" class="menu__link">Plan du site</a>
+  
+        </li>
+          </ul>
+  
+    </div>
+  
+        </li>
+                                      <li class="menu__item" >
+                          <a href="/fr/a-propos-du-spf-bosa" title="À propos du SPF BOSA" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/5478">À propos du SPF BOSA</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+<nav id="block-secondarymenufr" aria-label="Secondary menu FR" class="block block--menu block--menu--secondary-menu-fr block--region-header-collapsible">
+  
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item">
+                          <a href="/fr/contact" class="menu__link" data-drupal-link-system-path="node/17">Contact</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+  </div>
+
+          <div class="views-exposed-form block block--views block--views--search-and-overviews-search-fulltext block--region-header-right" data-drupal-selector="views-exposed-form-search-and-overviews-search-fulltext" id="block-exposedformsearch-and-overviewspage-1" aria-label="Global" role="search">
+  
+  
+
+      <div class="block__content">
+      <form action="/search" method="get" accept-charset="UTF-8" class="form">
+  <div class="views-exposed-form container-inline clearfix">
+  <div class="form-item form-item--type-search-api-autocomplete form-item--name-search js-form-item js-form-type-search-api-autocomplete js-form-item-search">
+      
+<label for="edit-search">Rechercher</label>
+        <input data-drupal-selector="edit-search" data-search-api-autocomplete-search="search_and_overviews" class="form-autocomplete form-text" data-autocomplete-path="/fr/search_api_autocomplete/search_and_overviews?display=search_fulltext&amp;&amp;filter=search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" />
+
+        </div>
+<div class="form-item form-item--type-select form-item--name-items-per-page js-form-item js-form-type-select js-form-item-items-per-page">
+      
+<label for="edit-items-per-page">Résultats par page</label>
+        <select data-drupal-selector="edit-items-per-page" id="edit-items-per-page" name="items_per_page" class="form-select"><option value="25" selected="selected">25</option><option value="50">50</option><option value="100">100</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-and-overviews" type="submit" id="edit-submit-search-and-overviews" value="Appliquer" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+
+<main class="page__wrapper page__wrapper--main">
+    
+              <div class="page__wrapper page__wrapper--highlighted">
+        <div class="page__section page__section--highlighted">
+              
+  
+<article about="/fr/AI4Belgium" class="node node--type-theme node--promoted node--view-mode-highlight" >
+
+  <div class="node__wrapper node__wrapper--top">
+    <div class="node__section node__section--top">
+      <div class="block block--system block--system-- block--system--breadcrumb">
+      <div class="block__content">
+      <nav class="breadcrumb" aria-label="Fil d'Ariane">
+  <ol>
+    <li class="with-link"><a href="/fr" title="Accueil" class="item">Accueil</a></li><li class="with-link"><a href="/fr/themes/administration-numerique" title="Administration numérique" class="item">Administration numérique</a></li><li class="with-link"><a href="/fr/themes/administration-numerique/intelligence-artificielle-et-blockchain-et-nouvelles-technologies" title="Intelligence artificielle et nouvelles technologies" class="item">Intelligence artificielle et nouvelles technologies</a></li>  </ol>
+</nav>
+
+    </div>
+  </div>
+      <div class="node__intro">
+
+        
+        <h1 class="node__title">AI4Belgium</h1>
+        
+
+        
+                  <div class="node__introduction"><p>L’intelligence artificielle (IA) est au centre d’une transformation profonde de notre société et de la « quatrième révolution industrielle ». </p>
+
+<p>La technologie en matière d’IA est en constante évolution et le SPF BOSA suit cela de près via AI4Belgium : une coalition qu’elle coordonne et qui rassemble les acteurs de l’IA issus des services publics, du secteur privé, du monde académique et de la société civile, experts et non-experts.</p></div>
+              </div>
+    </div>
+  </div>
+
+</article>
+
+
+
+
+
+        </div>
+      </div>
+      
+        <div class="page__wrapper page__wrapper--content">
+      <div class="page__section page__section--content">
+                <span id="main-content"></span>
+              
+  <span class="content-progress--wrapper">
+    <span class="content-progress--inner">
+      <span class="content-progress--bar"></span>
+    </span>
+  </span>
+
+<article about="/fr/AI4Belgium" class="node node--type-theme node--promoted node--view-mode-full node--theme-type--info" id="theme-content">
+
+          
+<div class="field field--name-field-blocks field--type-entity-reference-revisions field--label-hidden">
+      <ul class="field__items">
+              <li class="field__item">  <div class="paragraph paragraph--type-columns paragraph--view-mode-default paragraph--columns-2">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Qu’est-ce que l’IA ?</h2>
+
+
+<div class="field field--name-field-description field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted"><p><img alt='" "' data-entity-type data-entity-uuid height="127" src="/sites/default/files/icons/icon%20-%20robot%20artificial%20intelligence.png" width="115" class="align-left"></img>L’AI Act définit un système d’IA comme : « Un système automatisé qui est conçu pour fonctionner à différents niveaux d'autonomie et peut faire preuve d'une capacité d'adaptation après son déploiement, et qui, pour des objectifs explicites ou implicites, déduit, à partir des entrées qu'il reçoit, la manière de générer des sorties telles que des prédictions, du contenu, des recommandations ou des décisions qui peuvent influencer les environnements physiques ou virtuels<span><span><span> ».</span></span></span></p></div>
+            </div>
+
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-content-item paragraph--view-mode-default">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Actualités</h2>
+
+
+      </div>
+      </div>
+</li>
+              <li class="field__item"><div class="paragraph paragraph--type-related-content paragraph--view-mode-default">
+      <div class="paragraph__content">
+      
+<div class="field field--name-field-reference field--type-entity-reference field--label-hidden">
+      <ul class="field__items">
+              <li class="field__item"><article role="article" about="/fr/news/eu-ai-week-2025-innovation-versus-regulation" class="node node--type-news node--promoted node--view-mode-related">
+
+  
+  <h3 class="node__title">
+    <a href="/fr/news/eu-ai-week-2025-innovation-versus-regulation" rel="bookmark">EU AI Week 2025 - Innovation versus Regulation ?</a>
+  </h3>
+  
+
+  
+<div class="field field--name-field-publication-date field--type-timestamp field--label-visually_hidden">
+  <div class="field__label visually-hidden">Publication date</div>
+            <div class="field__item">27 janvier 2025</div>
+      </div>
+
+<div class="field field--name-field-introduction field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted">Du 17 au 21 mars 2025, plongez au cœur des enjeux démocratiques et industriels à l’ère de l’intelligence artificielle.</div>
+            </div>
+
+
+</article>
+</li>
+              <li class="field__item"><article role="article" about="/fr/news/participez-la-consultation-de-marche-sur-lia" class="node node--type-news node--promoted node--view-mode-related">
+
+  
+  <h3 class="node__title">
+    <a href="/fr/news/participez-la-consultation-de-marche-sur-lia" rel="bookmark">Participez à la consultation de marché sur l’IA !</a>
+  </h3>
+  
+
+  
+<div class="field field--name-field-publication-date field--type-timestamp field--label-visually_hidden">
+  <div class="field__label visually-hidden">Publication date</div>
+            <div class="field__item">27 janvier 2025</div>
+      </div>
+
+<div class="field field--name-field-introduction field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted">Le SPF BOSA lance une consultation de marché pour un éventuel accord-cadre fédéral sur les solutions d'IA. Il s’agit un projet ambitieux qui vise à centraliser l'accès aux outils...</div>
+            </div>
+
+
+</article>
+</li>
+              <li class="field__item"><article role="article" about="/fr/news/lai-act-est-entre-en-vigueur-inscrivez-vous-la-presentation-organisee-par-le-spf-bosa" class="node node--type-news node--promoted node--view-mode-related">
+
+  
+  <h3 class="node__title">
+    <a href="/fr/news/lai-act-est-entre-en-vigueur-inscrivez-vous-la-presentation-organisee-par-le-spf-bosa" rel="bookmark">L&#039;AI Act est entré en vigueur : inscrivez-vous à la présentation organisée par le SPF BOSA</a>
+  </h3>
+  
+
+  
+<div class="field field--name-field-publication-date field--type-timestamp field--label-visually_hidden">
+  <div class="field__label visually-hidden">Publication date</div>
+            <div class="field__item">16 juillet 2024</div>
+      </div>
+
+<div class="field field--name-field-introduction field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted">Vous êtes fonctionnaire et souhaitez en savoir plus sur l’AI Act ? Le SPF BOSA organise une présentation à ce sujet le jeudi 19 septembre afin de sensibiliser les agents du secteur...</div>
+            </div>
+
+
+</article>
+</li>
+          </ul>
+  </div>
+
+    </div>
+  </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-content-item paragraph--view-mode-default">
+          <div class="paragraph__content">
+        
+<div class="field field--name-field-description field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted"><p><a href="https://bosa.belgium.be/fr/news?f%5B0%5D=theme%3A192&amp;search=&amp;date_start=&amp;date_end=&amp;sort_bef_combine=date_DESC&amp;sort_by=date&amp;sort_order=DESC&amp;page=0">Plus d'actualités sur le thème Administration numérique</a></p></div>
+            </div>
+
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-content-item paragraph--view-mode-default paragraph--border-blue">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Agenda</h2>
+
+
+<div class="field field--name-field-description field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted"><p>Restez au courant des événements, séminaires et autres activités en lien avec l'IA en Belgique et ailleurs.</p>
+
+<p><a class="button" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="25634714-5c1c-44b5-a443-7affb7b28cfb" href="/fr/AI4Belgium/agenda">Consultez la liste</a></p></div>
+            </div>
+
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-block-wrapper paragraph--view-mode-default paragraph--overlap-under">
+          <div class="field field--name-field-block-items field--type-entity-reference-revisions">
+              <div class="field field--name-field-block-items field--type-entity-reference-revisions field__item">  <div class="paragraph paragraph--type-block-item paragraph--view-mode-block-wrapper paragraph--color-soft-yellow paragraph--position-center">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Plan national de convergence pour le développement de l&#039;intelligence artificielle</h2>
+
+
+<div class="field field--name-field-description field--type-text-long field--label-hidden">
+                    <div class="field__item field--text-formatted"><p>L’administration fédérale veut profiter pleinement des opportunités offertes par l'IA, et a donc élaboré un plan national de convergence pour le développement de l'intelligence artificielle. Ce plan a été approuvé lors du Conseil des ministres du 28 octobre 2022, et propose des actions concrètes pour faire de la Belgique une #SmartAINation.</p>
+
+<p><a class="button" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="db2243d4-4dac-4211-8bd0-8e3bc95d13be" href="/fr/themes/administration-numerique/strategie-et-politique-du-numerique/plan-national-de-convergence">Plus sur le plan national de convergence</a></p></div>
+            </div>
+
+      </div>
+      </div>
+</div>
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-columns paragraph--view-mode-default paragraph--columns-2">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Observatoire de l’IA et des nouvelles technologies digitales</h2>
+
+
+<div class="field field--name-field-descriptions field--type-text-long field--label-hidden">
+            <ul class="field__items">
+                  <li class="field__item field--text-formatted"><p><img alt='" "' data-entity-type data-entity-uuid src="/sites/default/files/content/images/DigitaleOverheid/AI/carte%20belgique%20aquarelle.png"></img></p></li>
+                  <li class="field__item field--text-formatted"><p> </p>
+
+<p>Découvrez les acteurs clés de l’écosystème de l’IA en Belgique et les projets menés par le secteur public belge dans ce domaine.</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="01193ac9-4322-42f1-b3be-7a7f01b495f5" href="/fr/AI4Belgium/observatoire">Plus d'info</a></p></li>
+              </ul>
+      </div>
+
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-columns paragraph--view-mode-default paragraph--columns-2">
+          <div class="paragraph__content">
+        
+  <h2 class="field field--name-field-title field--type-string field--label-hidden field__item">Thématiques</h2>
+
+
+<div class="field field--name-field-descriptions field--type-text-long field--label-hidden">
+            <ul class="field__items">
+                  <li class="field__item field--text-formatted"><p> </p>
+
+<p>Découvrez les différents comités et groupes de travail centrés sur les enjeux prioritaires de l’IA tels que définis par le plan national de convergence pour le développement de l’intelligence artificielle.</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a0a3adb0-d2e0-4224-b939-d81d23af0112" href="/fr/AI4Belgium/thematiques">Plus d'info</a></p></li>
+                  <li class="field__item field--text-formatted"><p><img alt='" "' data-entity-type data-entity-uuid src="/sites/default/files/content/images/DigitaleOverheid/AI/groupe%20de%20travail.jpeg"></img></p></li>
+              </ul>
+      </div>
+
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-block-wrapper paragraph--view-mode-default paragraph--overlap-under">
+          <div class="field field--name-field-block-items field--type-entity-reference-revisions">
+              <div class="field field--name-field-block-items field--type-entity-reference-revisions field__item">  <div class="paragraph paragraph--type-block-columns paragraph--view-mode-block-wrapper paragraph--color-blue paragraph--position-center paragraph--columns-2">
+          <div class="paragraph__content">
+        
+<div class="field field--name-field-descriptions field--type-text-long field--label-hidden">
+            <ul class="field__items">
+                  <li class="field__item field--text-formatted"><h2>À propos de AI4Belgium</h2></li>
+                  <li class="field__item field--text-formatted"><p>Apprenez-en plus sur les objectifs d’AI4Belgium, ses membres et partenaires.</p>
+
+<p><a class="button" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="cff254dc-0537-4147-ac91-bb8d434fdc73" href="/fr/AI4Belgium/a-propos">Plus sur AI4Belgium</a></p></li>
+              </ul>
+      </div>
+
+      </div>
+      </div>
+</div>
+      </div>
+      </div>
+</li>
+              <li class="field__item">  <div class="paragraph paragraph--type-block-wrapper paragraph--view-mode-default paragraph--overlap-under">
+          <div class="field field--name-field-block-items field--type-entity-reference-revisions">
+              <div class="field field--name-field-block-items field--type-entity-reference-revisions field__item">  <div class="paragraph paragraph--type-block-columns paragraph--view-mode-block-wrapper paragraph--color-soft-green paragraph--position-center paragraph--columns-2">
+          <div class="paragraph__content">
+        
+<div class="field field--name-field-descriptions field--type-text-long field--label-hidden">
+            <ul class="field__items">
+                  <li class="field__item field--text-formatted"><h2>Rejoignez AI4Belgium !</h2></li>
+                  <li class="field__item field--text-formatted"><p>Rejoignez la coalition en tant que particulier, expert ou organisation et contribuez à développer l'écosystème de l'IA en Belgique !</p>
+
+<p><a class="button" href="https://bosa.belgium.be/fr/form/devenez-membre-de-ai4belgium">Rejoignez-nous</a></p></li>
+              </ul>
+      </div>
+
+      </div>
+      </div>
+</div>
+      </div>
+      </div>
+</li>
+          </ul>
+  </div>
+
+
+</article>
+
+
+
+<div class="block block--wrapper block--wrapper--highlighted">
+  <div class="block block--wrapper block--wrapper--inner">
+    <nav id="block-mainnavigationfr-theme" aria-labelledby="block-mainnavigationfr-theme-heading" class="block block--menu block--menu--main-navigation-fr block--region-related">
+      
+              <h2 class="block__title" id="block-mainnavigationfr-theme-heading">Sujets</h2>
+            
+
+                    <div class="block__content">
+          
+        <ul class="menu">
+                  <li class="menu__item">
+        <a href="/fr/AI4Belgium/a-propos" title="Read more about À propos de AI4Belgium" class="menu__card-link">
+          <span class="menu__title">
+            <span>À propos de AI4Belgium</span>
+          </span>
+          <span class="menu__description">
+            Le SPF BOSA coordonne la coalition AI4Belgium qui rassemble les acteurs de l’intelligence artificielle (IA) issus des services publics, du secteur privé, du monde académique et de la société civile, experts et non-experts.
+          </span>
+        </a>
+      </li>
+                <li class="menu__item">
+        <a href="/fr/AI4Belgium/agenda" title="Read more about Agenda" class="menu__card-link">
+          <span class="menu__title">
+            <span>Agenda</span>
+          </span>
+          <span class="menu__description">
+            Retrouvez un calendrier des événements, séminaires et autres activités en lien avec l&#039;IA en Belgique et ailleurs.
+          </span>
+        </a>
+      </li>
+                <li class="menu__item">
+        <a href="/fr/AI4Belgium/acteurs" title="Read more about Les acteurs de l&#039;IA en Belgique" class="menu__card-link">
+          <span class="menu__title">
+            <span>Les acteurs de l&#039;IA en Belgique</span>
+          </span>
+          <span class="menu__description">
+            Les programmes et organismes qui favorisent le développement de l’IA en Belgique.
+          </span>
+        </a>
+      </li>
+                <li class="menu__item">
+        <a href="/fr/AI4Belgium/membres" title="Read more about Nos membres" class="menu__card-link">
+          <span class="menu__title">
+            <span>Nos membres</span>
+          </span>
+          <span class="menu__description">
+            Les différents membres de la coalition AI4Belgium sont des particuliers, des experts et des organisations.
+          </span>
+        </a>
+      </li>
+                <li class="menu__item">
+        <a href="/fr/AI4Belgium/observatoire" title="Read more about Observatoire de l’IA et des nouvelles technologies digitales" class="menu__card-link">
+          <span class="menu__title">
+            <span>Observatoire de l’IA et des nouvelles technologies digitales</span>
+          </span>
+          <span class="menu__description">
+            Nous surveillons et analysons les tendances émergentes en technologies numériques pour anticiper leurs évolutions et accompagner les stratégies publiques. Dans ce cadre, nous suivons les projets relatifs à l’intelligence artificielle en Belgique et mettons en place des cartographies reflétant l’intérêt du pays pour ces nouvelles technologies.
+          </span>
+        </a>
+      </li>
+                <li class="menu__item menu__item--collapsed">
+        <a href="/fr/AI4Belgium/thematiques" title="Read more about Thématiques" class="menu__card-link">
+          <span class="menu__title">
+            <span>Thématiques</span>
+          </span>
+          <span class="menu__description">
+            La Belgique comprend différents comités et groupes de travail centrés sur les enjeux prioritaires de l’IA tels que définis par son plan national de convergence pour le développement de l’intelligence artificielle. Chacun détermine, pour une thématique précise, les axes de travail à suivre au niveau fédéral et régional par les acteurs publics, privés, académiques et la société civile.
+          </span>
+        </a>
+      </li>
+      </ul>
+  
+
+
+        </div>
+          </nav>
+
+        
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  <div id="block-mainnavigationfr-2" class="block block--menu-block block--menu-block--main-navigation-fr block--region-content block--menu-block--siblings">
+    
+          <h2 class="block__title">Plus sur <a href="/fr/themes/administration-numerique/intelligence-artificielle-et-blockchain-et-nouvelles-technologies" title="Le SPF BOSA est un élément moteur de l’évolution et des réformes numériques du gouvernement fédéral. En matière d’innovation et de nouvelles technologies numériques, nous suivons en particulier les tendances et les opportunités offertes par les technologies d’intelligence artificielle et de la blockchain à travers un observatoire et un centre d’expertise." hreflang="fr">Intelligence artificielle et nouvelles technologies</a></h2>
+        
+
+          <div class="block__content">
+        
+        <ul class="menu">
+                  <li class="menu__item menu__item--collapsed">
+        <a href="/fr/blockchain4belgium" title="Read more about Blockchain4Belgium" class="menu__link">
+          <span class="title">Blockchain4Belgium</span>
+        </a>
+      </li>
+      </ul>
+  
+
+
+      </div>
+      </div>
+
+
+      </div>
+    </div>
+  
+    </main>
+
+<footer class="page__wrapper page__wrapper--footer">
+      <div class="page__section page__section--footer page__section--footer--top">
+                        <div class="page__inner page__inner--footer page__inner--footer--left">
+              
+<nav id="block-mainnavigationfr-footer" aria-labelledby="block-mainnavigationfr-footer-heading" class="block block--menu block--menu--main-navigation-fr block--region-footer-left">
+  
+      <h2 class="block__title" id="block-mainnavigationfr-footer-heading">Thèmes</h2>
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item menu__item--collapsed">
+                          <a href="/fr/themes/travailler-dans-la-fonction-publique" title="Recrutement des collaborateurs, gestion du personnel, formations et développement, bien-être et informations sur le travail dans la fonction publique." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/2">Travailler dans la fonction publique</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed">
+                          <a href="/fr/themes/marches-publics" title="Consultation et gestion des marchés publics, soumission et suivi des offres, soutien et contrats cadres." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/33">Marchés publics</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed menu__item--active-trail">
+                          <a href="/fr/themes/administration-numerique" title="Numériser et simplifier les services aux citoyens et aux entreprises, soutenir le développement des nouveaux services numériques pour l&#039;administration et les entreprises." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/32">Administration numérique</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed">
+                          <a href="/fr/themes/soutien-strategique" title="Conseils stratégiques et soutien en matière d&#039;élaboration de stratégies, de gestion organisationnelle, de politique RH, d&#039;innovation, de gestion du changement, de communication, d&#039;inclusion et de leadership." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/34">Soutien stratégique</a>
+  
+        </li>
+                                      <li class="menu__item menu__item--collapsed">
+                          <a href="/fr/themes/budget-et-comptabilite" title="La préparation et l&#039;exécution du budget fédéral, le monitoring, le dépôt du budget et les outils de soutien et d&#039;information, y compris sur la politique macro-budgétaire." class="menu__link" hreflang="fr" data-drupal-link-system-path="node/19">Budget et Comptabilité</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+
+          </div>
+                                      <div class="page__inner page__inner--footer page__inner--footer--middle">
+              
+<nav id="block-footermenufr-2" aria-labelledby="block-footermenufr-2-heading" class="block block--menu block--menu--footer-menu-fr block--region-footer-middle">
+  
+      <h2 class="block__title" id="block-footermenufr-2-heading">Aperçu</h2>
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item">
+                          <a href="/fr/trainings" class="menu__link" data-drupal-link-system-path="trainings">Formations</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/regulations" class="menu__link" data-drupal-link-system-path="regulations">Réglementation</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/applications" class="menu__link" data-drupal-link-system-path="applications">Applications</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/services" class="menu__link" data-drupal-link-system-path="services">Offre de services</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/networks" class="menu__link" data-drupal-link-system-path="networks">Réseaux</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/events" class="menu__link" data-drupal-link-system-path="events">Évènements</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/news" class="menu__link" data-drupal-link-system-path="news">Actualités</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/publications" class="menu__link" data-drupal-link-system-path="publications">Publications</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/sitemap" class="menu__link">Plan du site</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+
+          </div>
+                                      <div class="page__inner page__inner--footer page__inner--footer--right">
+              
+<nav id="block-footermenufr" aria-labelledby="block-footermenufr-heading" class="block block--menu block--menu--footer-menu-fr block--region-footer-right">
+  
+      <h2 class="block__title" id="block-footermenufr-heading">SPF BOSA</h2>
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item">
+                          <a href="/fr/a-propos-du-spf-bosa" class="menu__link" data-drupal-link-system-path="node/5478">À propos du SPF BOSA</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="https://bosa.belgium.be/fr/themes/soutien-strategique/culture-de-lorganisation/travailler-pour-le-spf-bosa" class="menu__link" title="Venez travailler pour le SPF BOSA">Travailler pour le SPF BOSA</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/bibliotheque" class="menu__link" data-drupal-link-system-path="node/4086">Bibliothèque</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/newsletters" class="menu__link" data-drupal-link-system-path="node/5821">Newsletters</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/contact" title="Contact" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/17">Contact</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+<nav id="block-socialnetworks" aria-label="Social Networks" class="block block--menu block--menu--social-networks block--region-footer-right">
+  
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item">
+                          <a href="https://www.linkedin.com/company/fod-beleid-en-ondersteuning-spf-strat%C3%A9gie-et-appui/" class="linkedin menu__link">LinkedIn</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="https://x.com/fodspfbosa" class="twitter menu__link">X</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="https://www.youtube.com/channel/UCiWGjGiJAJe4BfVrxQ-GIKQ" class="youtube menu__link">Youtube</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+
+          </div>
+                  </div>
+  
+            <div class="page__section page__section--footer page__section--footer--bottom">
+        <div class="copyright">
+          SPF BOSA
+        </div>
+          
+<nav id="block-bottommenufr" aria-label="Bottom Menu FR" class="block block--menu block--menu--bottom-menu-fr block--region-footer-bottom">
+  
+    
+
+        <div class="block__content">
+      
+
+                  <ul class="menu">
+                                          <li class="menu__item">
+                          <a href="/fr/conditions-dutilisation" title="Conditions d&#039;utilisation" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/13">Conditions d&#039;utilisation</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/declaration-de-confidentialite" title="Déclaration de confidentialité" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/14">Déclaration de confidentialité</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/politique-relative-aux-cookies" title="Politique relative aux cookies" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/15">Politique relative aux cookies</a>
+  
+        </li>
+                                      <li class="menu__item">
+                          <a href="/fr/declaration-daccessibilite" title="Déclaration d&#039;accessibilité" class="menu__link" hreflang="fr" data-drupal-link-system-path="node/16">Déclaration d&#039;accessibilité</a>
+  
+        </li>
+          </ul>
+  
+
+
+
+    </div>
+  </nav>
+
+
+      </div>
+      </footer>
+
+        <button type="button" class="button button--back-to-top">Remonter</button>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node\/7176","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bosa\/aria-accordion,bosa\/content-progress,bosa\/global-scripts,bosa\/global-styling,bosa\/montserrat,bosa\/opensans,bosa\/sitemap-toc,extlink\/drupal.extlink,kiso\/blocks,kiso\/elements,kiso\/extlink-window,kiso\/fields,kiso\/font-awesome,kiso\/font-muli,kiso\/font-open-sans,kiso\/forms,kiso\/layout,kiso\/links--language-block,kiso\/miscs,kiso\/navigations,kiso\/nodes,kiso\/normalize,kiso\/outdated-browser,kiso\/reboot,kiso\/track-focus,kiso\/visual-styling,onomasticon\/default,openfed_federalheader\/header,paragraphs\/drupal.paragraphs.unpublished,search_api_autocomplete\/search_api_autocomplete,system\/base,views\/views.module","theme":"bosa","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fas fa-external-link-square-alt","extFaMailtoClasses":"fas fa-envelope","whitelistedDomains":[]}},"kiso":{"extlinkWindow":{"viewBoxSquare":"0 0 512 512","viewBoxRect":"0 0 448 512","extlinkLabel":"(link is external and opens a new window)","intlinkLabel":"(link opens a new window)","fontAwesomeClass":"fas fa-window-restore","intlinkEnabled":0,"extlinkShapeData":"M448 80v352c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48zm-88 16H248.029c-21.313 0-32.08 25.861-16.971 40.971l31.984 31.987L67.515 364.485c-4.686 4.686-4.686 12.284 0 16.971l31.029 31.029c4.687 4.686 12.285 4.686 16.971 0l195.526-195.526 31.988 31.991C358.058 263.977 384 253.425 384 231.979V120c0-13.255-10.745-24-24-24z","mailtoShapeData":"M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z","intlinkShapeData":"M512 48v288c0 26.5-21.5 48-48 48h-48V176c0-44.1-35.9-80-80-80H128V48c0-26.5 21.5-48 48-48h288c26.5 0 48 21.5 48 48zM384 176v288c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V176c0-26.5 21.5-48 48-48h288c26.5 0 48 21.5 48 48zm-68 28c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v52h252v-52z"},"backtotop":{"offset":"","mobile_hide":0}},"search_api_autocomplete":{"search_and_overviews":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"7e5154e39322bf7edc5668a77b78af05d760178f83265debd87c856dbb8247a2"}}</script>
+<script src="/themes/contrib/kiso/js/outdated-browser.min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/misc/polyfills/nodelist.foreach.js?v=9.4.15"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.4.15"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.4.15"></script>
+<script src="/sites/default/files/languages/fr_oPbszh41klNvGFuQ7umF_LB3QHdEtMJ_uE7_FSTcesI.js?svtch1"></script>
+<script src="/core/misc/drupal.js?v=9.4.15"></script>
+<script src="/core/misc/drupal.init.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=9.4.15"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.2"></script>
+<script src="/core/misc/autocomplete.js?v=9.4.15"></script>
+<script src="/themes/custom/bosa/js/dropdown-menu.min.js?svtch1"></script>
+<script src="/themes/custom/bosa/js/init.min.js?svtch1"></script>
+<script src="/themes/custom/bosa/js/orejime-config.js?svtch1"></script>
+<script src="/themes/custom/bosa/js/orejime.js?svtch1"></script>
+<script src="/themes/custom/bosa/js/bosa.js?svtch1"></script>
+<script src="/libraries/wai-aria-patterns-and-widgets/dist/accordion/js/accordion.min.js?v=1.0.6"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=9.4.15"></script>
+<script src="/themes/contrib/kiso/js/extlink-window.min.js?v=9.4.15"></script>
+<script src="/libraries/what-input/dist/what-input.min.js?v=^5.2"></script>
+<script src="/themes/custom/bosa/js/sitemap-toc.min.js?svtch1"></script>
+<script src="/themes/custom/bosa/js/content-progress.min.js?svtch1"></script>
+<script src="/core/misc/progress.js?v=9.4.15"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.4.15"></script>
+<script src="/core/misc/ajax.js?v=9.4.15"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.4.15"></script>
+<script src="/core/misc/position.js?v=9.4.15"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?svtch1"></script>
+
+    <noscript class="noscript">
+            For full functionality of this site it is necessary to enable JavaScript.<br>
+        Here are the <a href="http://www.enable-javascript.com/fr/" target="_blank">instructions how to enable JavaScript in your web browser</a>.    </noscript>
+  </body>
+</html>
